@@ -40,11 +40,18 @@ markerFolder: ./Nugaal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Nugaal|Nugaal]] 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Nugaal.public|Nugaal.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Nugaal.internal|Nugaal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Nugaal.protect|Nugaal.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Nugaal.private|Nugaal.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Nugaal.personal|Nugaal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Nugaal.secret|Nugaal.secret]] 
+
+### #is_/same_as :: [Nugaal](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Nugaal.md) 
+
+### #is_/same_as :: [Nugaal.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Nugaal.public.md) 
+
+### #is_/same_as :: [Nugaal.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Nugaal.internal.md) 
+
+### #is_/same_as :: [Nugaal.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Nugaal.protect.md) 
+
+### #is_/same_as :: [Nugaal.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Nugaal.private.md) 
+
+### #is_/same_as :: [Nugaal.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Nugaal.personal.md) 
+
+### #is_/same_as :: [Nugaal.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Nugaal.secret.md)
 

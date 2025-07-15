@@ -39,11 +39,18 @@ markerFolder: ./Bay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Bay|Bay]] 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Bay.public|Bay.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bay.internal|Bay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bay.protect|Bay.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Bay.private|Bay.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bay.personal|Bay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bay.secret|Bay.secret]] 
+
+### #is_/same_as :: [Bay](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bay.md) 
+
+### #is_/same_as :: [Bay.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bay.public.md) 
+
+### #is_/same_as :: [Bay.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bay.internal.md) 
+
+### #is_/same_as :: [Bay.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bay.protect.md) 
+
+### #is_/same_as :: [Bay.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bay.private.md) 
+
+### #is_/same_as :: [Bay.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bay.personal.md) 
+
+### #is_/same_as :: [Bay.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bay.secret.md)
 

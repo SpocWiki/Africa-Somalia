@@ -40,11 +40,18 @@ markerFolder: ./Bakool/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Bakool|Bakool]] 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Bakool.public|Bakool.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Bakool.internal|Bakool.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Bakool.protect|Bakool.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Bakool.private|Bakool.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Bakool.personal|Bakool.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Bakool.secret|Bakool.secret]] 
+
+### #is_/same_as :: [Bakool](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bakool.md) 
+
+### #is_/same_as :: [Bakool.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bakool.public.md) 
+
+### #is_/same_as :: [Bakool.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bakool.internal.md) 
+
+### #is_/same_as :: [Bakool.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bakool.protect.md) 
+
+### #is_/same_as :: [Bakool.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bakool.private.md) 
+
+### #is_/same_as :: [Bakool.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bakool.personal.md) 
+
+### #is_/same_as :: [Bakool.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bakool.secret.md)
 

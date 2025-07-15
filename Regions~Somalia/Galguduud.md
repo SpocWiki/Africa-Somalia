@@ -40,11 +40,18 @@ markerFolder: ./Galguduud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Galguduud|Galguduud]] 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Galguduud.public|Galguduud.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Galguduud.internal|Galguduud.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Galguduud.protect|Galguduud.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Galguduud.private|Galguduud.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Galguduud.personal|Galguduud.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Galguduud.secret|Galguduud.secret]] 
+
+### #is_/same_as :: [Galguduud](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Galguduud.md) 
+
+### #is_/same_as :: [Galguduud.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Galguduud.public.md) 
+
+### #is_/same_as :: [Galguduud.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Galguduud.internal.md) 
+
+### #is_/same_as :: [Galguduud.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Galguduud.protect.md) 
+
+### #is_/same_as :: [Galguduud.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Galguduud.private.md) 
+
+### #is_/same_as :: [Galguduud.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Galguduud.personal.md) 
+
+### #is_/same_as :: [Galguduud.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Galguduud.secret.md)
 

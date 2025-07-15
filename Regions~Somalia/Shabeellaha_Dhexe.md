@@ -40,11 +40,18 @@ markerFolder: ./Shabeellaha_Dhexe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe|Shabeellaha_Dhexe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.public|Shabeellaha_Dhexe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.internal|Shabeellaha_Dhexe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.protect|Shabeellaha_Dhexe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.private|Shabeellaha_Dhexe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.personal|Shabeellaha_Dhexe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Shabeellaha_Dhexe.secret|Shabeellaha_Dhexe.secret]] 
+
+### #is_/same_as :: [Shabeellaha_Dhexe](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.md) 
+
+### #is_/same_as :: [Shabeellaha_Dhexe.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.public.md) 
+
+### #is_/same_as :: [Shabeellaha_Dhexe.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.internal.md) 
+
+### #is_/same_as :: [Shabeellaha_Dhexe.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.protect.md) 
+
+### #is_/same_as :: [Shabeellaha_Dhexe.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.private.md) 
+
+### #is_/same_as :: [Shabeellaha_Dhexe.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.personal.md) 
+
+### #is_/same_as :: [Shabeellaha_Dhexe.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.secret.md)
 

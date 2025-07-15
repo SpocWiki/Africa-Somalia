@@ -40,11 +40,18 @@ markerFolder: ./Gedo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Gedo|Gedo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Gedo.public|Gedo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Gedo.internal|Gedo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Gedo.protect|Gedo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Gedo.private|Gedo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Gedo.personal|Gedo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Gedo.secret|Gedo.secret]] 
+
+### #is_/same_as :: [Gedo](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Gedo.md) 
+
+### #is_/same_as :: [Gedo.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Gedo.public.md) 
+
+### #is_/same_as :: [Gedo.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Gedo.internal.md) 
+
+### #is_/same_as :: [Gedo.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Gedo.protect.md) 
+
+### #is_/same_as :: [Gedo.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Gedo.private.md) 
+
+### #is_/same_as :: [Gedo.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Gedo.personal.md) 
+
+### #is_/same_as :: [Gedo.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Gedo.secret.md)
 

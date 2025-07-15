@@ -40,11 +40,18 @@ markerFolder: ./Jubbada_Hoose/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose|Jubbada_Hoose]] 
-- [[../../../../../../_public/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.public|Jubbada_Hoose.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.internal|Jubbada_Hoose.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.protect|Jubbada_Hoose.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.private|Jubbada_Hoose.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.personal|Jubbada_Hoose.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Somalia/Counties/Jubbada_Hoose.secret|Jubbada_Hoose.secret]] 
+
+### #is_/same_as :: [Jubbada_Hoose](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Hoose.md) 
+
+### #is_/same_as :: [Jubbada_Hoose.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Hoose.public.md) 
+
+### #is_/same_as :: [Jubbada_Hoose.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Hoose.internal.md) 
+
+### #is_/same_as :: [Jubbada_Hoose.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Hoose.protect.md) 
+
+### #is_/same_as :: [Jubbada_Hoose.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Hoose.private.md) 
+
+### #is_/same_as :: [Jubbada_Hoose.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Hoose.personal.md) 
+
+### #is_/same_as :: [Jubbada_Hoose.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Hoose.secret.md)
 

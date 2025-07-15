@@ -133,10 +133,4 @@ Capital :: [[Mogadischu=Mogadisho]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Somalia|Somalia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Somalia.private|Somalia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]] 
+
