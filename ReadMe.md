@@ -1,38 +1,39 @@
 ---
 location:
-- 2.02
-- 45.33
+  - 2.02
+  - 45.33
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27022
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Somalia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Somalia
-- Somalie
-- الصومال
-- 索马里
-- Сомали
-- the Federal Republic of Somalia
-- la República Federal de Somalia
+  - Somalia
+  - Somalie
+  - الصومال
+  - 索马里
+  - Сомали
+  - the Federal Republic of Somalia
+  - la República Federal de Somalia
 Languages:
-- so-SO
-- ar-SO
-- it
-- en-SO
+  - so-SO
+  - ar-SO
+  - it
+  - en-SO
 ---
 
 
