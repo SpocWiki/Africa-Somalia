@@ -119,7 +119,7 @@ markerFolder: .//
 [Area-Land::627340] 
 Continent :: [[Africa]]  
 [VehicleCode::SO] 
-Capital :: [[Mogadischu=Mogadisho]]  
+Capital :: [[City/Mogadischu]]  
 
 ![[Coat_of_arms_of_Somalia.svg|550]] 
 
