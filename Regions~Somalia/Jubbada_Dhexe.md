@@ -40,17 +40,17 @@ markerFolder: ./Jubbada_Dhexe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jubbada_Dhexe](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe|Jubbada_Dhexe]] 
 
-### #is_/same_as :: [Jubbada_Dhexe.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.public|Jubbada_Dhexe.public]] 
 
-### #is_/same_as :: [Jubbada_Dhexe.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.internal|Jubbada_Dhexe.internal]] 
 
-### #is_/same_as :: [Jubbada_Dhexe.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.protect|Jubbada_Dhexe.protect]] 
 
-### #is_/same_as :: [Jubbada_Dhexe.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.private|Jubbada_Dhexe.private]] 
 
-### #is_/same_as :: [Jubbada_Dhexe.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.personal|Jubbada_Dhexe.personal]] 
 
-### #is_/same_as :: [Jubbada_Dhexe.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Jubbada_Dhexe.secret|Jubbada_Dhexe.secret]] 
 

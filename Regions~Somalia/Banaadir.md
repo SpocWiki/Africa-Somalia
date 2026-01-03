@@ -40,17 +40,17 @@ markerFolder: ./Banaadir/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Banaadir](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir|Banaadir]] 
 
-### #is_/same_as :: [Banaadir.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.public|Banaadir.public]] 
 
-### #is_/same_as :: [Banaadir.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.internal|Banaadir.internal]] 
 
-### #is_/same_as :: [Banaadir.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.protect|Banaadir.protect]] 
 
-### #is_/same_as :: [Banaadir.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.private|Banaadir.private]] 
 
-### #is_/same_as :: [Banaadir.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.personal|Banaadir.personal]] 
 
-### #is_/same_as :: [Banaadir.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir.secret|Banaadir.secret]] 
 

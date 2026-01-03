@@ -138,20 +138,21 @@ maxZoom: 18
 > In the late 2010s and 2020s, a period of major reconstruction commenced.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mogadishu) 
+
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mogadishu](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/City/Mogadishu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu|Mogadishu]] 
 
-### #is_/same_as :: [Mogadishu.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/City/Mogadishu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.public|Mogadishu.public]] 
 
-### #is_/same_as :: [Mogadishu.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/City/Mogadishu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.internal|Mogadishu.internal]] 
 
-### #is_/same_as :: [Mogadishu.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/City/Mogadishu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.protect|Mogadishu.protect]] 
 
-### #is_/same_as :: [Mogadishu.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/City/Mogadishu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.private|Mogadishu.private]] 
 
-### #is_/same_as :: [Mogadishu.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/City/Mogadishu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.personal|Mogadishu.personal]] 
 
-### #is_/same_as :: [Mogadishu.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/City/Mogadishu.secret.md)
-
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.secret|Mogadishu.secret]] 
 

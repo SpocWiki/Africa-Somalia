@@ -40,17 +40,17 @@ markerFolder: ./Mudug/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mudug](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug|Mudug]] 
 
-### #is_/same_as :: [Mudug.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.public|Mudug.public]] 
 
-### #is_/same_as :: [Mudug.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.internal|Mudug.internal]] 
 
-### #is_/same_as :: [Mudug.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.protect|Mudug.protect]] 
 
-### #is_/same_as :: [Mudug.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.private|Mudug.private]] 
 
-### #is_/same_as :: [Mudug.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.personal|Mudug.personal]] 
 
-### #is_/same_as :: [Mudug.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Mudug.secret|Mudug.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Hiiraan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hiiraan](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan|Hiiraan]] 
 
-### #is_/same_as :: [Hiiraan.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.public|Hiiraan.public]] 
 
-### #is_/same_as :: [Hiiraan.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.internal|Hiiraan.internal]] 
 
-### #is_/same_as :: [Hiiraan.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.protect|Hiiraan.protect]] 
 
-### #is_/same_as :: [Hiiraan.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.private|Hiiraan.private]] 
 
-### #is_/same_as :: [Hiiraan.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.personal|Hiiraan.personal]] 
 
-### #is_/same_as :: [Hiiraan.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Hiiraan.secret|Hiiraan.secret]] 
 

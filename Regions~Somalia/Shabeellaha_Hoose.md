@@ -40,17 +40,17 @@ markerFolder: ./Shabeellaha_Hoose/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shabeellaha_Hoose](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose|Shabeellaha_Hoose]] 
 
-### #is_/same_as :: [Shabeellaha_Hoose.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.public|Shabeellaha_Hoose.public]] 
 
-### #is_/same_as :: [Shabeellaha_Hoose.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.internal|Shabeellaha_Hoose.internal]] 
 
-### #is_/same_as :: [Shabeellaha_Hoose.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.protect|Shabeellaha_Hoose.protect]] 
 
-### #is_/same_as :: [Shabeellaha_Hoose.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.private|Shabeellaha_Hoose.private]] 
 
-### #is_/same_as :: [Shabeellaha_Hoose.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.personal|Shabeellaha_Hoose.personal]] 
 
-### #is_/same_as :: [Shabeellaha_Hoose.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Hoose.secret|Shabeellaha_Hoose.secret]] 
 

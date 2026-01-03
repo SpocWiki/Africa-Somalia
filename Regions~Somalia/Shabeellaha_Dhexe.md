@@ -40,17 +40,17 @@ markerFolder: ./Shabeellaha_Dhexe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shabeellaha_Dhexe](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe|Shabeellaha_Dhexe]] 
 
-### #is_/same_as :: [Shabeellaha_Dhexe.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.public|Shabeellaha_Dhexe.public]] 
 
-### #is_/same_as :: [Shabeellaha_Dhexe.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.internal|Shabeellaha_Dhexe.internal]] 
 
-### #is_/same_as :: [Shabeellaha_Dhexe.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.protect|Shabeellaha_Dhexe.protect]] 
 
-### #is_/same_as :: [Shabeellaha_Dhexe.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.private|Shabeellaha_Dhexe.private]] 
 
-### #is_/same_as :: [Shabeellaha_Dhexe.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.personal|Shabeellaha_Dhexe.personal]] 
 
-### #is_/same_as :: [Shabeellaha_Dhexe.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Shabeellaha_Dhexe.secret|Shabeellaha_Dhexe.secret]] 
 

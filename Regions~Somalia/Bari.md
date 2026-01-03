@@ -40,17 +40,17 @@ markerFolder: ./Bari/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bari](/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari|Bari]] 
 
-### #is_/same_as :: [Bari.public](/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.public|Bari.public]] 
 
-### #is_/same_as :: [Bari.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.internal|Bari.internal]] 
 
-### #is_/same_as :: [Bari.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.protect|Bari.protect]] 
 
-### #is_/same_as :: [Bari.private](/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.private|Bari.private]] 
 
-### #is_/same_as :: [Bari.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.personal|Bari.personal]] 
 
-### #is_/same_as :: [Bari.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia/Regions~Somalia/Bari.secret|Bari.secret]] 
 
