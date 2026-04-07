@@ -2,13 +2,13 @@
 aliases:
 has_id_wikidata: Q10862295
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Somalia,1045]]"
-country: "[[_Standards/WikiData/WD~Somalia,1045]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Somalia,5124]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]"
+country: "[[_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Somalia,5124|WD~Template_History_of_Somalia,5124]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84.wav
 Dewey_Decimal_Classification: "967.73"
 Commons_category: History of Somalia
