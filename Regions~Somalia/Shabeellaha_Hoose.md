@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Shabeellaha_Hoose/
 markerFolder: ./Shabeellaha_Hoose/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

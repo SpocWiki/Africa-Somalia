@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Jubbada_Hoose/
 markerFolder: ./Jubbada_Hoose/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
