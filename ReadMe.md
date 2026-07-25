@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 索马里联邦共和国
 dv_UNTERM_French_Formal: la République fédérale de Somalie
 dv_UNTERM_Russian: Сомали
 dv_UNTERM_Russian_Formal: Федеративная Республика Сомали
-dv_Region_Name: '[Africa](../../Africa)'
-dv_Intermediate_Region_Name: '[Eastern Africa](Eastern%20Africa)'
-dv_Sub-region_Name: '[Sub-Saharan Africa](Sub-Saharan%20Africa)'
+dv_Region_Name: '[Africa](../../../Africa)'
+dv_Intermediate_Region_Name: '[Eastern Africa](../Eastern%20Africa)'
+dv_Sub-region_Name: '[Sub-Saharan Africa](../Sub-Saharan%20Africa)'
 dv_Region: 2
 dv_Intermediate_Region: 14
 dv_Sub-region: 202
@@ -54,7 +54,7 @@ dv_ISO2: SO
 dv_ISO3: SOM
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+  - '[[../../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]'
@@ -354,16 +354,16 @@ dv_has_:
 dv_has_name_de: Somalia
 dv_Area-Total: 637657
 dv_Area-Land: 627340
-dv_has_place_continent: '[Africa](../../Africa)'
+dv_has_place_continent: '[Africa](../../../Africa)'
 dv_VehicleCode: SO
-dv_Capital: '[Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu)'
+dv_Capital: '[Mogadishu](Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu)'
 dv_Alcohol-l: 0.5
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 45.33
 dv_has_place_latitude: 2.02
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+- '[[../../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]'
@@ -527,7 +527,7 @@ instance_of:
 - '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 - '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 highest_point: '[[/_Standards/WikiData/WD~Shimbiris,649162|WD~Shimbiris,649162]]'
 demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Somalia,952462|WD~demographics_of_Somalia,952462]]'
@@ -863,7 +863,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[ReadMe](Mascarene-Islands/Reunion/ReadMe) 
+[ReadMe](../Mascarene-Islands/Reunion/ReadMe) 
 
 ## #has_/map 
 
@@ -884,7 +884,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Somalia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -910,11 +910,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-![550](Somalia/Coat_of_arms_of_Somalia.svg)
+![550](Coat_of_arms_of_Somalia.svg)
 
-![Anthem-Somalia.mp3](../../../../../_public/xLarge.public/National-Anthem/Anthem-Somalia.mp3)
+![Anthem-Somalia.mp3](../../../../../../_public/xLarge.public/National-Anthem/Anthem-Somalia.mp3)
 
-![350](Somalia/Flag_of_Somalia.svg)
+![350](Flag_of_Somalia.svg)
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
